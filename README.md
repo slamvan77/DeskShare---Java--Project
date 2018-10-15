@@ -6,7 +6,7 @@ A PROJECT develpoed BY- Rohan Chaudhary
 
 The program facilitates the communication among the client and the server utilizing very optimal network traffic rates, and providing low latency of events at both the server and client sides, thereby increasing the performance of the software and its practical realization in the real world applications.
 
-Implemented using following JAVA Classes:
+Implemented using following JAVA Classes:-
 
  Java AWT (Abstract Windowing Toolkit)
 
